@@ -27,7 +27,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Bank-Management-System.git
+git clone https://github.com/piyushgalgotia/Bank-Management-System.git
 
 Navigate to the project directory:
 
